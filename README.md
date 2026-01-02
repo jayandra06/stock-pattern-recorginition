@@ -1,4 +1,4 @@
-# stock-pattern-recorginition
+# stock-pattern-recorginition.
 In conclusion, this project presents a method with deep learning for head and shoulders (HAS)
 pattern recognition. This appraoce uses 2D candlestick chart as input instead of 1D vectors to
 predict the stock trend. The reason for using 2D images is that images about the stock pricelike candlestick chart are more often used for stock investors and easier to understand. Compared with feeding with 1D vector, this approach almost does not need any preprocessing, and the model can feed with raw pixels. In addition, images can contain more
